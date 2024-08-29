@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# qrcode-frontend-practice
-a practice from Frontend Mentor
-=======
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
